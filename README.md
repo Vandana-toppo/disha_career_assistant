@@ -16,7 +16,10 @@ Technologies Used
 
 Project Status
 
-Currently under development.
+Successfully deployed and available online.
+## Live Demo
+
+[Launch Disha AI Career Assistant](https://vandana-toppo-disha-career-assistant-app-lgelwp.streamlit.app/)
 
 Author
 
